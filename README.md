@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Some small web demo project
 
-You can use the [editor on GitHub](https://github.com/chaplinthink/chaplinthink.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The project contains some small web demo project for learning front-end web development skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. How To Build a Website With CSS
 
-### Markdown
+├── css-practice
+│   ├── css
+│   │   └── styles.css
+│   ├── images
+│   │   ├── background-image.jpeg
+│   │   ├── email.jpeg
+│   │   ├── github.jpeg
+│   │   ├── large-profile.jpeg
+│   │   ├── project-left.jpeg
+│   │   ├── project-right.jpeg
+│   │   ├── small-profile.jpeg
+│   │   └── twitter.jpeg
+│   └── index.html 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## References
+1. https://www.digitalocean.com/community/tutorial_series/how-to-build-a-website-with-css
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaplinthink/chaplinthink.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. 
